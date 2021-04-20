@@ -33,8 +33,9 @@
 
 <h2> Covid-19 (corona virus) API </h2>
 <li>In this project we use Covid19india.org API <a href="https://api.covid19india.org/data.json"><strong> Click here</strong></a></li>
+<br><br>
 
 <h2> My Social Media Account </h2>
 <li> Instagram : <a href="https://instagram.com/atik_gohel">@atik_gohel</a></li>
-<li> dribble : <a href="https://instagram.com/atik_gohel">@atik_gohel</a></li>
+<li> dribble : <a href="https://dribbble.com/atik_gohel">@atik_gohel</a></li>
 
