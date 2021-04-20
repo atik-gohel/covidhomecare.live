@@ -15,9 +15,10 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li><a href="">Bootstrap 4.6</a></li>
-  <li><a href="">Jquery</a></li>
-  <li><a href="">Whatsapp.js</a></li>
+  <li><a href="https://github.com/atik-gohel/covidhomecare.live/blob/main/covidhomecare.live/assets/css/bootstrap.min.css">Bootstrap 4.6</a></li>
+  <li><a href="https://github.com/atik-gohel/covidhomecare.live/blob/main/covidhomecare.live/assets/js/jquery-3.5.1.slim.min.js">Jquery 3.5.1</a></li>
+  <li><a href="https://github.com/atik-gohel/covidhomecare.live/blob/main/covidhomecare.live/assets/js/whatsapp.js">Whatsapp.js</a></li>
+  <li><a href="https://github.com/atik-gohel/covidhomecare.live/tree/main/covidhomecare.live/assets/images">All Images </a></li>
 </ul><br><br>
 
 <h2> Font </h2>
@@ -26,9 +27,14 @@
   <li>Inter-Medium</li>
   <li>Inter-Regular</li>
   <li>Inter-SemiBold</li>
-  <strong> <a href="">Click here</a></strong>
+  <strong> <a href="https://github.com/atik-gohel/covidhomecare.live/tree/main/covidhomecare.live/assets/font">Click here</a></strong>
 </ul>
 <br><br>
+
 <h2> Covid-19 (corona virus) API </h2>
 <li>In this project we use Covid19india.org API <a href="https://api.covid19india.org/data.json"><strong> Click here</strong></a></li>
+
+<h2> My Social Media Account </h2>
+<li> Instagram : <a href="https://instagram.com/atik_gohel">@atik_gohel</a></li>
+<li> dribble : <a href="https://instagram.com/atik_gohel">@atik_gohel</a></li>
 
