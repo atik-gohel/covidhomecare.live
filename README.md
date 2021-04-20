@@ -28,7 +28,7 @@
   <li>Inter-SemiBold</li>
   <strong> <a href="">Click here</a></strong>
 </ul>
-
+<br><br>
 <h2> Covid-19 (corona virus) API </h2>
 <li>In this project we use Covid19india.org API <a href="https://api.covid19india.org/data.json"><strong> Click here</strong></a></li>
 
